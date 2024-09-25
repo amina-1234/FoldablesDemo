@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ResizeScreenApp</string>
+    <string name="main_pane">Main Pane</string>
+    <string name="show_main_pane">Show Main Pane</string>
+    <string name="show_supporting_pane">Show supporting pane</string>
+    <string name="supporting_pane">Supporting Pane</string>
+    <string name="extra_pane">Extra Pane</string>
+</resources>
